@@ -15,5 +15,6 @@
         "**/Thumbs.db": true,
         "**/.rmv/catalog/**": true,
         "*/_*": false
-    }
+    },
+    "livePreview.defaultPreviewPath": "/index.html"
 }
