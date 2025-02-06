@@ -6,22 +6,23 @@
     <title>About page</title>
     <link rel="icon" href="./images/robot.png" />
     <link rel="stylesheet" href="./style.css" />
-    <script type="module" src="./scripts/about.js"></script>
+    <script type="module" src="./scripts/about.js">
+    </script>
   </head>
   <body>
     <button class="pink-btn" id="home-btn">Home</button>
     <div class="container about-page">
       <h1>About our app</h1>
       <p>
-        Joke Teller App from Skillbrain Univer by Daniel Alin Iosif Frontend Developer.
+        Joke Teller App by Daniel Alin Iosif Frontend Developer.
       </p>
     </div>
-    <script>// functionalitate buton home
+    <script>
 const homeBtn = document.getElementById("home-btn");
-function afiseazaBtn() {
+function ShowBtn() {
   console.log(homeBtn);
 }
-afiseazaBtn()
+ShowBtn()
 homeBtn.addEventListener("click", function () {
   window.location.href = "/";
 });
