@@ -17,5 +17,8 @@
         "*/_*": false
     },
     "livePreview.defaultPreviewPath": "/index.html",
-    "CodeGPT.apiKey": "CodeGPT Plus Beta"
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "cSpell.words": [
+        "sunweb"
+    ]
 }
