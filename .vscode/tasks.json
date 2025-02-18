@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "Live Preview",
+      "workspacePath": "e:\\===Skilbrain===\\==1-5 PROIECTE==\\3 Speech Processing App - Joke Teller",
+      "problemMatcher": [],
+      "label": "Live Preview: Run Server",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}
